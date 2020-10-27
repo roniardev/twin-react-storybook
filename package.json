@@ -13,7 +13,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
-    "twin.macro": "^1.8.1"
+    "twin.macro": "^1.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
