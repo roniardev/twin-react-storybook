@@ -1,7 +1,7 @@
 {
   "name": "twin-react",
   "version": "0.1.0",
-  "author": "Roni Ardiyanto <dev@ron.my.id>",
+  "author": "Roni Ardiyanto <dev@ron.my.id>"
   "private": true,
   "dependencies": {
     "@emotion/core": "^10.0.35",
